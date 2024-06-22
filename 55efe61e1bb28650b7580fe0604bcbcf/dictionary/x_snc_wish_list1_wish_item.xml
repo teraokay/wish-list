@@ -5,6 +5,7 @@
         <element label="Quantity" max_length="40" name="quantity" type="integer"/>
         <element attributes="encode_utf8=false" label="Requester" mandatory="true" max_length="32" name="requester" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Request Date" max_length="40" name="request_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Test2" max_length="40" name="test2" type="string"/>
         <element label="URL" max_length="1024" name="url" type="url"/>
         <index name="index">
             <element name="requester"/>
