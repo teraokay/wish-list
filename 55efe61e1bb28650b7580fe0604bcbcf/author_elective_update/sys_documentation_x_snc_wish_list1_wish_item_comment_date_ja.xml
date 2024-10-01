@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation action="DELETE" element="comment_date" label="Comment Date" language="ja" table="x_snc_wish_list1_wish_item">
+        <sys_documentation action="DELETE">
+            <element>comment_date</element>
+            <help/>
+            <hint/>
+            <label>Comment Date</label>
+            <language>ja</language>
+            <name>x_snc_wish_list1_wish_item</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-28 05:32:32</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Comment Date</sys_name>
+            <sys_package display_value="Wish List" source="x_snc_wish_list1">55efe61e1bb28650b7580fe0604bcbcf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">55efe61e1bb28650b7580fe0604bcbcf</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_wish_list1_wish_item_comment_date_ja</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-28 05:32:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Wish List">55efe61e1bb28650b7580fe0604bcbcf</application>
+        <file_path/>
+        <instance_id>2dcebd11db46a55442b321c40596198b</instance_id>
+        <instance_name>empyteraoka</instance_name>
+        <name>sys_documentation_x_snc_wish_list1_wish_item_comment_date_ja</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="comment_date" label="Comment Date" language="ja" table="x_snc_wish_list1_wish_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>comment_date</element>
+            <help/>
+            <hint/>
+            <label>Comment Date</label>
+            <language>ja</language>
+            <name>x_snc_wish_list1_wish_item</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-28 05:32:32</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Comment Date</sys_name>
+            <sys_package display_value="Wish List" source="x_snc_wish_list1">55efe61e1bb28650b7580fe0604bcbcf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">55efe61e1bb28650b7580fe0604bcbcf</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_wish_list1_wish_item_comment_date_ja</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-28 05:32:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>]]></payload>
+        <payload_hash>2056902523</payload_hash>
+        <record_name>Wish Item.Comment Date</record_name>
+        <reverted_from/>
+        <source>8c615c248749de10e80e4197dabb3576</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-01 08:14:45</sys_created_on>
+        <sys_id>a361dc248749de10e80e4197dabb35f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192472561070000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-01 08:14:45</sys_updated_on>
+        <type>Field Label</type>
+        <update_guid>6361dc244f49de105afc981d34f752f5</update_guid>
+        <update_guid_history>6361dc244f49de105afc981d34f752f5:2056902523</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-01 08:41:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_documentation">sys_documentation</sys_db_object>
+        <sys_id>1f582115f73c48a6be16974b81d90064</sys_id>
+        <sys_metadata>2761dc248749de10e80e4197dabb35b4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Comment Date</sys_name>
+        <sys_package display_value="Wish List" source="x_snc_wish_list1">55efe61e1bb28650b7580fe0604bcbcf</sys_package>
+        <sys_parent display_value="">29619c248749de10e80e4197dabb358a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">55efe61e1bb28650b7580fe0604bcbcf</sys_scope>
+        <sys_scope_delete display_value="">0f0435b4bdb2463487108405534b9690</sys_scope_delete>
+        <sys_update_name>sys_documentation_x_snc_wish_list1_wish_item_comment_date_ja</sys_update_name>
+        <sys_update_version display_value="sys_documentation_x_snc_wish_list1_wish_item_comment_date_ja">a361dc248749de10e80e4197dabb35f5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-01 08:41:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
