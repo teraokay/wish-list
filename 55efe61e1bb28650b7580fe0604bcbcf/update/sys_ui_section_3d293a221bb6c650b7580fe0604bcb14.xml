@@ -168,6 +168,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>url_comments3</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-01 08:33:57</sys_created_on>
+            <sys_id>b4d558e88749de10e80e4197dabb35bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wish_list1_wish_item" sys_domain="global" view="Default view">3d293a221bb6c650b7580fe0604bcb14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-01 08:33:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>
@@ -190,6 +204,7 @@
             <sys_updated_on>2024-06-18 05:14:06</sys_updated_on>
             <sys_user/>
             <title>true</title>
+            <u_caption/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_section>
