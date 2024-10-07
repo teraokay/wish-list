@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="6a30725e1bb28650b7580fe0604bcb42" label="Wish Item" max_length="40" name="x_snc_wish_list1_wish_item" type="collection">
-        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
-        <element attributes="edge_encryption_enabled=true" display="true" label="Item" mandatory="true" max_length="125" name="item" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Request Date" max_length="40" name="request_date" type="glide_date"/>
-        <element label="URL" max_length="1024" name="url" type="url"/>
         <element attributes="edge_encryption_enabled=true" label="Display name" max_length="300" name="display_name" read_only="true" type="string"/>
         <element attributes="encode_utf8=false" label="Requester" mandatory="true" max_length="32" name="requester" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Item" mandatory="true" max_length="125" name="item" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New Date" max_length="40" name="u_glide_date_1" type="glide_date"/>
+        <element label="Quantity" max_length="40" name="quantity" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Comment Date" max_length="40" name="comment_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="URL Comments" max_length="40" name="url_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Request Date" max_length="40" name="request_date" type="glide_date"/>
+        <element label="URL" max_length="1024" name="url" type="url"/>
         <index name="index">
             <element name="requester"/>
         </index>
