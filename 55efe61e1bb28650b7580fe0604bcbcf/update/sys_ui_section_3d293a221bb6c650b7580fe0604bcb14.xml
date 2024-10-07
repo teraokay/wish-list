@@ -4,13 +4,13 @@
             <element>display_name</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-07 13:24:33</sys_created_on>
-            <sys_id>50e15c2693011610b654b0b47aba1082</sys_id>
+            <sys_created_on>2024-10-07 13:32:25</sys_created_on>
+            <sys_id>5ba358e693011610b654b0b47aba1057</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_wish_list1_wish_item" sys_domain="global" view="Default view">3d293a221bb6c650b7580fe0604bcb14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-07 13:24:33</sys_updated_on>
+            <sys_updated_on>2024-10-07 13:32:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>requester</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-07 13:24:33</sys_created_on>
-            <sys_id>1ce15c2693011610b654b0b47aba1082</sys_id>
+            <sys_created_on>2024-10-07 13:32:25</sys_created_on>
+            <sys_id>dfa358e693011610b654b0b47aba1057</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_wish_list1_wish_item" sys_domain="global" view="Default view">3d293a221bb6c650b7580fe0604bcb14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-07 13:24:33</sys_updated_on>
+            <sys_updated_on>2024-10-07 13:32:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>request_date</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-07 13:24:33</sys_created_on>
-            <sys_id>90e15c2693011610b654b0b47aba1083</sys_id>
+            <sys_created_on>2024-10-07 13:32:25</sys_created_on>
+            <sys_id>57a358e693011610b654b0b47aba1058</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_wish_list1_wish_item" sys_domain="global" view="Default view">3d293a221bb6c650b7580fe0604bcb14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-07 13:24:33</sys_updated_on>
+            <sys_updated_on>2024-10-07 13:32:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.begin_split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-07 13:24:33</sys_created_on>
-            <sys_id>18e15c2693011610b654b0b47aba1083</sys_id>
+            <sys_created_on>2024-10-07 13:32:25</sys_created_on>
+            <sys_id>dba358e693011610b654b0b47aba1058</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_wish_list1_wish_item" sys_domain="global" view="Default view">3d293a221bb6c650b7580fe0604bcb14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-07 13:24:33</sys_updated_on>
+            <sys_updated_on>2024-10-07 13:32:25</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>item</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-07 13:24:33</sys_created_on>
-            <sys_id>9ce15c2693011610b654b0b47aba1083</sys_id>
+            <sys_created_on>2024-10-07 13:32:25</sys_created_on>
+            <sys_id>53a358e693011610b654b0b47aba1059</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_wish_list1_wish_item" sys_domain="global" view="Default view">3d293a221bb6c650b7580fe0604bcb14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-07 13:24:33</sys_updated_on>
+            <sys_updated_on>2024-10-07 13:32:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>.split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-07 13:24:33</sys_created_on>
-            <sys_id>14e15c2693011610b654b0b47aba1084</sys_id>
+            <sys_created_on>2024-10-07 13:32:25</sys_created_on>
+            <sys_id>d7a358e693011610b654b0b47aba1059</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_wish_list1_wish_item" sys_domain="global" view="Default view">3d293a221bb6c650b7580fe0604bcb14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-07 13:24:33</sys_updated_on>
+            <sys_updated_on>2024-10-07 13:32:25</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>quantity</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-07 13:24:33</sys_created_on>
-            <sys_id>98e15c2693011610b654b0b47aba1084</sys_id>
+            <sys_created_on>2024-10-07 13:32:25</sys_created_on>
+            <sys_id>5fa358e693011610b654b0b47aba1059</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_wish_list1_wish_item" sys_domain="global" view="Default view">3d293a221bb6c650b7580fe0604bcb14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-07 13:24:33</sys_updated_on>
+            <sys_updated_on>2024-10-07 13:32:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>.end_split</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-07 13:24:33</sys_created_on>
-            <sys_id>10e15c2693011610b654b0b47aba1085</sys_id>
+            <sys_created_on>2024-10-07 13:32:25</sys_created_on>
+            <sys_id>d3a358e693011610b654b0b47aba105a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_wish_list1_wish_item" sys_domain="global" view="Default view">3d293a221bb6c650b7580fe0604bcb14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-07 13:24:33</sys_updated_on>
+            <sys_updated_on>2024-10-07 13:32:25</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>url</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-07 13:24:33</sys_created_on>
-            <sys_id>94e15c2693011610b654b0b47aba1085</sys_id>
+            <sys_created_on>2024-10-07 13:32:25</sys_created_on>
+            <sys_id>5ba358e693011610b654b0b47aba105a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_wish_list1_wish_item" sys_domain="global" view="Default view">3d293a221bb6c650b7580fe0604bcb14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-07 13:24:33</sys_updated_on>
+            <sys_updated_on>2024-10-07 13:32:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,27 @@
             <element>url_comments</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-10-07 13:24:33</sys_created_on>
-            <sys_id>1ce15c2693011610b654b0b47aba1085</sys_id>
+            <sys_created_on>2024-10-07 13:32:25</sys_created_on>
+            <sys_id>dfa358e693011610b654b0b47aba105a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_wish_list1_wish_item" sys_domain="global" view="Default view">3d293a221bb6c650b7580fe0604bcb14</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-10-07 13:24:33</sys_updated_on>
+            <sys_updated_on>2024-10-07 13:32:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_url_comments2</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-10-07 13:32:25</sys_created_on>
+            <sys_id>57a358e693011610b654b0b47aba105b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_wish_list1_wish_item" sys_domain="global" view="Default view">3d293a221bb6c650b7580fe0604bcb14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-10-07 13:32:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
